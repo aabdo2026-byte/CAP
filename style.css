@@ -40,3 +40,10 @@ iframe {
 .menu a:hover {
   color: lightblue;
 }
+
+.unit2 {
+  width: 80%;
+  height: 80%;
+  display: block;
+  margin: 20px auto;
+}
